@@ -17,7 +17,7 @@ A lightweight, robust tool for managing Cloudflare VLESS nodes with a Web Dashbo
   </a>
 </p>
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview+Image)
+![Dashboard Preview](https://raw.githubusercontent.com/Joe9513j/cloudflare_nodes_batch_genator/refs/heads/main/2025-12-31_123856.png)
 
 </div>
 
